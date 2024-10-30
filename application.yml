@@ -8,4 +8,4 @@ eureka:
       defaultZone: http://localhost:8061/eureka
 spring:
   application:
-    name: Default-config
+    name: Default-config1
