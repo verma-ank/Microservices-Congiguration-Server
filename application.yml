@@ -1,4 +1,8 @@
-eureka.instance.prefer-ip-address=true
-eureka.client.fetch-registry=true
-eureka.client.register-with-eureka=true
-eureka.client.service-url.defaultZone=http://localhost:8061/eureka
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8061/eureka
