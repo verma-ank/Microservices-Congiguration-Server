@@ -1,5 +1,4 @@
 spring.application.name=CONFIG-Dev
-
 eureka.instance.prefer-ip-address=true
 eureka.client.fetch-registry=true
 eureka.client.register-with-eureka=true
